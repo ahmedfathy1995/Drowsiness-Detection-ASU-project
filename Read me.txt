@@ -1,0 +1,10 @@
+this Project aims to helping drivers who drive for long periods or at night as sleepiness is a main cause for car accidents.
+
+Developed by:
+Ahmed Fathy
+Ahmed Elkholy
+Mahmoud samir
+
+assisted by adrian at pyimagesearch.com
+pythonprogramming.com
+pycharm
